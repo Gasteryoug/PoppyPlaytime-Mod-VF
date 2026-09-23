@@ -1,13 +1,11 @@
-Vox Production - Mod VF Poppy Playtime (Chapitre 1 & 2)
+Vox Production - Mod VF Poppy Playtime (Chapitre 1 2 et 3)
 Date de création : 28/08/2025
 Mod non-officiel, doublage original français par Vox Production
 
 --------------------------------------------------
 Direction & Coordination
 --------------------------------------------------
-Chef de projet : NG Production
-Co-Direction : Gasteryoug
-Co-Direction Chapitre 2 : Bendy The Dubbing Demon
+Chef de projet : (Anciennement) NG Production (Actuellement) Gasteryoug
 
 --------------------------------------------------
 Voix Chapitre 1
@@ -47,6 +45,43 @@ Manager : LeChauveSouriit
 Boogie Bot : Shin
 
 --------------------------------------------------
+Voix Chapitre 3
+--------------------------------------------------
+Mr. Hartmann : dinomatt37
+Dr. White : flamme
+Enfant 1 : Loulou
+Enfant 2 : Ayouu
+Richard Lovitz : Gasteryoug
+Bobby Bearhug : Lydie
+Picky Picky : Aurore
+Hoppy Hopscotch : Abi
+Dogday : Kate
+Miss Harmann : Lesy
+Joseph : Sunny
+Kickin Chicken : flamme
+Crafty Corn : Abi
+Stella : Aurore
+Prototype : Kais1ns, Aurore, Ibi Le Zombie
+Elliot Ludwig : James
+Journaliste : Varggan
+Bubba Bubbaphant : HeyChuiAndrea!
+Ollie : Un glaçon
+Enfants chanteurs : Mel, WawaCrystal, Koushi_chan
+Stuart : The Unlucky
+Poppy : WawaCrystal
+Scientifique de Joseph : Alessio
+DogDay : Alessio
+Scientifique de Claire : Aezelh
+Mrs. Brooks : Aezelh
+Claire Harper : Madame Lacoste
+Harley Sawyer : Rton
+Leith Pierre : Rton
+Huggy Wuggy Cutout : Zak
+Miss Delight : Sp0oky
+Conseiller : Ibi Le Zombie
+Hoppy Hopscotch Cutout : HimekoPsycho
+Annonceur Inconnu : AzurTheDragon
+--------------------------------------------------
 Technique & Création
 --------------------------------------------------
 Moddeurs : Gasteryoug, NG Production
@@ -59,7 +94,7 @@ Bandes Rythmos : Gasteryoug, NG Production, Bendy The Dubbing Demon
 Contact
 --------------------------------------------------
 Discord : https://discord.gg/pv6XGhZPG3
-YouTube : https://youtube.com/@ng_production?si=yhEIScpsWN9lysAq
+YouTube : https://www.youtube.com/@Gasteryoug
 
 --------------------------------------------------
 Licence
