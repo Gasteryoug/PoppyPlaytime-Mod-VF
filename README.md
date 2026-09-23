@@ -6,7 +6,7 @@ Bienvenue sur le dépôt officiel du **mod de doublage français de Poppy Playti
 
 ## À propos du projet
 
-Ce mod propose un doublage et une traduction **100% français** des dialogues, ui, documents, posters etc... du jeu *Poppy Playtime* (actuellement chapitre 1 et 2).  
+Ce mod propose un doublage et une traduction **100% français** des dialogues, ui, documents, posters etc... du jeu *Poppy Playtime* (actuellement chapitre 1, 2 et 3).  
 Il a été créé par Vox Production dans le but de proposer une expérience immersive et de haute qualité pour les joueurs francophones.
 
 **Important :** ce projet est **non officiel** et **ne remplace pas la version originale du jeu**. Il s’agit d’un projet communautaire et fan-made.
@@ -17,7 +17,6 @@ Il a été créé par Vox Production dans le but de proposer une expérience imm
 
 - **NG Production** : Producteur, réalisateur, doubleur, moddeur
 - **Gasteryoug** : Réalisateur, moddeur, artiste 3D, doubleur
-- **Bendy The Dubbing Demon** : Assistant réalisateur, doubleur, distribution casting 
 
 Date de création : 28/08/2025
 
